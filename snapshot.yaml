@@ -5,3 +5,5 @@ packages:
     commit: f0298f5382572e3c4d23676cdb8c8ff7cf1c9efb
   - git: https://github.com/pgenie-io/client
     commit: 486a054f31aea8384d55eff7bed37dd9bb1c7af4
+  - git: https://github.com/pgenie-io/config
+    commit: 6fe03edbcc8ebfae8f73d8095c34b36f54d9986c
