@@ -3,3 +3,5 @@ resolver: https://raw.githubusercontent.com/nikita-volkov/stack-snapshot/a80edde
 packages:
   - git: https://github.com/pgenie-io/protocol
     commit: f0298f5382572e3c4d23676cdb8c8ff7cf1c9efb
+  - git: https://github.com/pgenie-io/client
+    commit: 486a054f31aea8384d55eff7bed37dd9bb1c7af4
