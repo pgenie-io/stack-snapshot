@@ -3,4 +3,4 @@ resolver: https://raw.githubusercontent.com/nikita-volkov/stack-snapshot/da3acf5
 packages:
   - url: https://github.com/pgenie-io/protocol/archive/f0298f5382572e3c4d23676cdb8c8ff7cf1c9efb.tar.gz
   - url: https://github.com/pgenie-io/client/archive/83b20bda879fc3d0237b75daa7a80f61892103aa.tar.gz
-  - url: https://github.com/pgenie-io/config/archive/6fe03edbcc8ebfae8f73d8095c34b36f54d9986c.tar.gz
+  - url: https://github.com/pgenie-io/config/archive/a3677ca3235e360e4a3cf9df1e44c5c1259972ce.tar.gz
