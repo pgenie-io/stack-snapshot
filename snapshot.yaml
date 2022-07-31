@@ -1,6 +1,4 @@
 name: pgenie-public-snapshot
-resolver: https://raw.githubusercontent.com/nikita-volkov/stack-snapshot/da3acf521911bb70d20fce5bbb34c6b1b525a837/snapshot.yaml
+resolver: https://raw.githubusercontent.com/nikita-volkov/stack-snapshot/33cedc9f273a754e2db2e1beef1221c33df29c39/snapshot.yaml
 packages:
-  - url: https://github.com/pgenie-io/protocol/archive/2002a6f8ea6e7a612a9bddba8b359b36c88736c6.tar.gz
-  - url: https://github.com/pgenie-io/client/archive/e5e036786b0829fa7492fc1cc014d6becf10ae9d.tar.gz
-  - url: https://github.com/pgenie-io/config/archive/3adafa4ef253a9c73cc2b4a574331810a377bf5b.tar.gz
+  - url: https://github.com/pgenie-io/api/archive/f02eafcd8bedb87d1b27d01825f2597698ac63eb.tar.gz
