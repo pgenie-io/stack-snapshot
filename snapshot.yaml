@@ -1,5 +1,21 @@
 name: pgenie-public-snapshot
-resolver: https://raw.githubusercontent.com/nikita-volkov/stack-snapshot/93e158556e073be67f551a6cedc23ce83c4cca18/snapshot.yaml
+resolver: nightly-2022-11-25
 packages:
-  - url: https://github.com/pgenie-io/protocol/archive/b67f3dd03e14483903526130581f4e01e58f5aee.tar.gz
-  - url: https://github.com/pgenie-io/client/archive/0c7fc193da8bc25e21ae74edcb14a2e9e03e58f1.tar.gz
+  # Public
+  - git: https://github.com/nikita-volkov/coalmine
+    commit: 0351349d8b028d2e1c331c92f69b5647ca1dfe4c
+  - git: https://github.com/nikita-volkov/moore-machines
+    commit: 7e95c33b203a1cfe42dbc0e0de3cec8e6fe94290
+  - git: https://github.com/nikita-volkov/structure-kit
+    commit: 46ffb6527c48f8a718adecd21a313f0b1ba5e81c
+  - git: https://github.com/nikita-volkov/canapi
+    commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
+  - git: https://github.com/nikita-volkov/lean-http-client
+    commit: 52343895df1e5ae49159b8c5f76a50ac438216b1
+  - git: https://github.com/nikita-volkov/distillery
+    commit: 2c2905f2addb0d1925c43d427fcf65340ee64b2a
+  - git: https://github.com/metrix-ai/acquire
+    commit: 75194757308ae9340b0e2eda46d8db4d25af7516
+  - cereal-data-dword-0.1.1
+  - punycode-2.0
+  - timestamp-0.2
