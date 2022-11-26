@@ -1,7 +1,6 @@
 name: pgenie-public-snapshot
 resolver: nightly-2022-11-26
 packages:
-  # Public
   - git: https://github.com/nikita-volkov/coalmine
     commit: 95295462e45bc05843b24dbd594b3c584dd21878
   - git: https://github.com/nikita-volkov/structure-kit
