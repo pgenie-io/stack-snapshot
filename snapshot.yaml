@@ -1,5 +1,5 @@
 name: pgenie-public-snapshot
-resolver: nightly-2022-11-25
+resolver: nightly-2022-11-26
 packages:
   # Public
   - git: https://github.com/nikita-volkov/coalmine
