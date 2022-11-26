@@ -5,7 +5,7 @@ packages:
   - git: https://github.com/nikita-volkov/coalmine
     commit: 95295462e45bc05843b24dbd594b3c584dd21878
   - git: https://github.com/nikita-volkov/structure-kit
-    commit: 46ffb6527c48f8a718adecd21a313f0b1ba5e81c
+    commit: f6423d909d1fc65e15f128012e4940b3412e64fd
   - git: https://github.com/nikita-volkov/canapi
     commit: 02f1d9ffea90522a3a0968305793a7f507c7da59
   - git: https://github.com/nikita-volkov/lean-http-client
