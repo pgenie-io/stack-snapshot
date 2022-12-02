@@ -1,5 +1,5 @@
 name: pgenie-public-snapshot
-resolver: nightly-2022-11-26
+resolver: nightly-2022-12-02
 packages:
   - git: https://github.com/nikita-volkov/coalmine
     commit: 95295462e45bc05843b24dbd594b3c584dd21878
@@ -16,3 +16,10 @@ packages:
   - cereal-data-dword-0.1.1
   - punycode-2.0
   - timestamp-0.2
+  # pGenie
+  - git: https://github.com/pgenie-io/client
+    commit: 739e297f3f36601dfabe80d8e40bb4690bbbb104
+  - git: https://github.com/pgenie-io/config
+    commit: e1d43134448f8ce0d287ebe2d13b0d1f1ee41b41
+  - git: https://github.com/pgenie-io/protocol
+    commit: b67f3dd03e14483903526130581f4e01e58f5aee
